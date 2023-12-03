@@ -2,6 +2,8 @@
 
 by Vsevolod Klyushev IU F23 / D20-AI / v.klyushev@innopolis.university
 
+Archive with checkpoints is available [here](https://drive.google.com/drive/folders/1-XvIDolm6SMfjJgAb-uc6leuoCncWer4?usp=sharing).
+
 ## Before start
 
 Install all the packages from _requirements.txt_ using `pip install -r requirements.txt`
