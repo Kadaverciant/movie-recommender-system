@@ -1,8 +1,8 @@
 # Movie Recommender System
 
-by Vsevolod Klyushev IU F23 / D20-AI / v.klyushev@innopolis.university
+by Vsevolod Klyushev IU F23 / B20-AI / v.klyushev@innopolis.university
 
-Archive with checkpoints is available [here](https://drive.google.com/drive/folders/1-XvIDolm6SMfjJgAb-uc6leuoCncWer4?usp=sharing).
+All checkpoints are available [here](https://drive.google.com/drive/folders/1-XvIDolm6SMfjJgAb-uc6leuoCncWer4?usp=sharing).
 
 ## Before start
 
